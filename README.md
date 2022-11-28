@@ -90,6 +90,6 @@ This challenge is assessed on the following criteria:
 
 ## Deployment
 
-#####Here is a quick link to the deployed page: 
+####Here is a quick link to the deployed page: 
 
-The page should visually look like the following document (Assets/01-html-css-git-challenge-demo.png)
+[The page should visually look like this following document] (https://github.com/Uwais-Moosa/Horiseon-Code-Refactor/blob/main/assets/images/01-html-css-git-challenge-demo.png)
