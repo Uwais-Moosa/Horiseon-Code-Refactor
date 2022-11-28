@@ -14,7 +14,6 @@ This challenge due on 29/11/2022 consists in refactoring some CSS and HTML code,
 
 ### The Task
 
-**Note**: Be sure to review the [Challenge Guide](./Challenge-Guide.md) and the [Good README Guide](./Good-README-Guide.md) before you start working on this assignment!
 
 This week your challenge is an on-the-job ticket, which means you'll begin with starter code that you need to modify. This week's challenge involves a very important aspect of web development: **accessibility**. 
 
@@ -90,6 +89,6 @@ This challenge is assessed on the following criteria:
 
 ## Deployment
 
-Here is a quick link to the deployed page: 
+Here is a quick link to the deployed page: https://uwais-moosa.github.io/Horiseon-Code-Refactor/
 
-The page should visually look like this following document: https://github.com/Uwais-Moosa/Horiseon-Code-Refactor/blob/main/assets/images/01-html-css-git-challenge-demo.png
+The page should visually look like [this](./assets/images/01-html-css-git-challenge-demo.png).
