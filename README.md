@@ -2,7 +2,7 @@
 
 ## Description
 
-This challenge due on 29/11/2022 consists in refactoring some CSS and HTML code, and ensuring that the Horiseon website looks like the provided template.
+This challenge consists in refactoring some CSS and HTML code, and ensuring that the Horiseon website looks like the provided template.
 
 ## Table of Contents
 * [Instructions](#instructions)
